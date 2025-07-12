@@ -6,7 +6,7 @@ This project uses machine learning techniques to predict conversion rates in dig
 
 1. Clone this repository.
 2. Install the required packages with `pip install -r requirements.txt`.
-3. (Optional) Set up your Kaggle API credentials if you want to automatically download datasets from Kaggle.
+3. (Optional) Set up your Kaggle API credentials if you want to automatically download datasets from Kaggle. Data also available in the data folder
 
 ## Files
 
